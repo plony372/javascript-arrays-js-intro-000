@@ -22,7 +22,9 @@ function destructivelyAddElementToEndOfArray(array, newElement){
 }
 
 
-
+function accessElementInArray(array, index){
+  return array[index]
+}
 
 
 
