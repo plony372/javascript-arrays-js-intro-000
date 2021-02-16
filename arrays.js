@@ -14,6 +14,6 @@ function destructivelyAddElementToBeginningOfArray(){
 // .unshift to add to the begining of an Array
 
 // these operator's will create a new Array in place
-// ["klik's", ...chocolateBars] this will create a new array with klik's added at index 0
+// var newarray = ["klik's", ...chocolateBars] this will create a new array with klik's added at index 0
 
 
