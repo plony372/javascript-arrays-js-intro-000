@@ -41,6 +41,7 @@ function removeElementFromBeginningOfArray(array){
 // ".push" to add to the end of an Array
 // .unshift to add to the begining of an Array
 // .shift() will return the removed element (the default value is the first)
+// .pop remve the a element frome the end of an Array
 
 
 // these operator's will create a new Array in place
