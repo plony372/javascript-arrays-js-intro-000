@@ -40,6 +40,10 @@ function destructivelyRemoveElementFromEndOfArray(array){
   return array;
 }
 
+function removeElementFromEndOfArray(array){
+  var newarray = array.slice(0)
+}
+
 // these fuctions mutate the Array
 // ".push" to add to the end of an Array
 // .unshift to add to the begining of an Array
