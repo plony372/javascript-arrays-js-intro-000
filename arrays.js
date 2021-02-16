@@ -9,6 +9,6 @@ function destructivelyAddElementToBeginningOfArray(){
   
 }
 
-
+// these fuctions mutate the Array
 // ".push" to add to the end of an Array
 // .unshift to add to the begining of an Array
