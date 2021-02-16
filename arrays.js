@@ -8,3 +8,5 @@ function addElementToBeginningOfArray(){
 function destructivelyAddElementToBeginningOfArray(){
   
 }
+
+// ".push" to add to the end of an Array
