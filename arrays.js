@@ -31,6 +31,9 @@ function destructivelyRemoveElementFromBeginningOfArray(array){
   return array
 }
 
+function removeElementFromBeginningOfArray(array){
+  array.slice(0,1)
+}
 
 // these fuctions mutate the Array
 // ".push" to add to the end of an Array
