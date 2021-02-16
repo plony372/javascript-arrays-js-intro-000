@@ -1,12 +1,13 @@
 var chocolateBars = [snickers, hundredgrand, kitkat, skittles];
 
 
-function addElementToBeginningOfArray(){
-  
+function addElementToBeginningOfArray(array, newElement){
+  var newarray = [newarray, ...array]
+  return newarray;
 }
 
-function destructivelyAddElementToBeginningOfArray(){
-  
+function destructivelyAddElementToBeginningOfArray(array, newElement){
+  return array.unshift(newElement)
 }
 
 // these fuctions mutate the Array
