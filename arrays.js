@@ -33,6 +33,9 @@ function accessElementInArray(array, index){
 // ".push" to add to the end of an Array
 // .unshift to add to the begining of an Array
 
+
+// .shift() will return the removed element 
+
 // these operator's will create a new Array in place
 // var newarray = ["klik's", ...chocolateBars] this will create a new array with klik's added at index 0
 
